@@ -1,3 +1,3 @@
-## Language Translation
+### Language Translation
 
-### We’ll be training a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
+#### We’ll be training a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
